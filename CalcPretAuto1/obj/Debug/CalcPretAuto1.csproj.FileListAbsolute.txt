@@ -1,0 +1,95 @@
+F:\aec\sesiunea 3\c#\CalcPretAuto1\CalcPretAuto1\bin\Debug\CalcPretAuto1.exe.config
+F:\aec\sesiunea 3\c#\CalcPretAuto1\CalcPretAuto1\bin\Debug\CalcPretAuto1.exe
+F:\aec\sesiunea 3\c#\CalcPretAuto1\CalcPretAuto1\bin\Debug\CalcPretAuto1.pdb
+F:\aec\sesiunea 3\c#\CalcPretAuto1\CalcPretAuto1\obj\Debug\CalcPretAuto1.csprojAssemblyReference.cache
+F:\aec\sesiunea 3\c#\CalcPretAuto1\CalcPretAuto1\obj\Debug\Choix1.g.cs
+F:\aec\sesiunea 3\c#\CalcPretAuto1\CalcPretAuto1\obj\Debug\Choix2.g.cs
+F:\aec\sesiunea 3\c#\CalcPretAuto1\CalcPretAuto1\obj\Debug\MainWindow.g.cs
+F:\aec\sesiunea 3\c#\CalcPretAuto1\CalcPretAuto1\obj\Debug\App.g.cs
+F:\aec\sesiunea 3\c#\CalcPretAuto1\CalcPretAuto1\obj\Debug\CalcPretAuto1_MarkupCompile.cache
+F:\aec\sesiunea 3\c#\CalcPretAuto1\CalcPretAuto1\obj\Debug\CalcPretAuto1_MarkupCompile.lref
+F:\aec\sesiunea 3\c#\CalcPretAuto1\CalcPretAuto1\obj\Debug\Choix1.baml
+F:\aec\sesiunea 3\c#\CalcPretAuto1\CalcPretAuto1\obj\Debug\Choix2.baml
+F:\aec\sesiunea 3\c#\CalcPretAuto1\CalcPretAuto1\obj\Debug\MainWindow.baml
+F:\aec\sesiunea 3\c#\CalcPretAuto1\CalcPretAuto1\obj\Debug\CalcPretAuto1.g.resources
+F:\aec\sesiunea 3\c#\CalcPretAuto1\CalcPretAuto1\obj\Debug\CalcPretAuto1.Properties.Resources.resources
+F:\aec\sesiunea 3\c#\CalcPretAuto1\CalcPretAuto1\obj\Debug\CalcPretAuto1.csproj.GenerateResource.cache
+F:\aec\sesiunea 3\c#\CalcPretAuto1\CalcPretAuto1\obj\Debug\CalcPretAuto1.csproj.CoreCompileInputs.cache
+F:\aec\sesiunea 3\c#\CalcPretAuto1\CalcPretAuto1\obj\Debug\CalcPretAuto1.exe
+F:\aec\sesiunea 3\c#\CalcPretAuto1\CalcPretAuto1\obj\Debug\CalcPretAuto1.pdb
+F:\aec\sesiunea 3\c#\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\CalcPretAuto1.csprojAssemblyReference.cache
+F:\aec\sesiunea 3\c#\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\Choix2.g.cs
+F:\aec\sesiunea 3\c#\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\Choix1.g.cs
+F:\aec\sesiunea 3\c#\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\MainWindow.g.cs
+F:\aec\sesiunea 3\c#\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\App.g.cs
+F:\aec\sesiunea 3\c#\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\CalcPretAuto1_MarkupCompile.cache
+F:\aec\sesiunea 3\c#\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\CalcPretAuto1_MarkupCompile.lref
+F:\aec\sesiunea 3\c#\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\CalcPretAuto1.exe
+F:\aec\sesiunea 3\c#\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\CalcPretAuto1.pdb
+F:\aec\sesiunea 3\c#\CalcPretAuto1 - Copie\CalcPretAuto1\bin\Debug\CalcPretAuto1.exe.config
+F:\aec\sesiunea 3\c#\CalcPretAuto1 - Copie\CalcPretAuto1\bin\Debug\CalcPretAuto1.exe
+F:\aec\sesiunea 3\c#\CalcPretAuto1 - Copie\CalcPretAuto1\bin\Debug\CalcPretAuto1.pdb
+F:\aec\sesiunea 3\c#\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\Choix2.baml
+F:\aec\sesiunea 3\c#\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\Choix1.baml
+F:\aec\sesiunea 3\c#\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\MainWindow.baml
+F:\aec\sesiunea 3\c#\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\CalcPretAuto1.g.resources
+F:\aec\sesiunea 3\c#\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\CalcPretAuto1.Properties.Resources.resources
+F:\aec\sesiunea 3\c#\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\CalcPretAuto1.csproj.GenerateResource.cache
+F:\aec\sesiunea 3\c#\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\CalcPretAuto1.csproj.CoreCompileInputs.cache
+F:\Rosemont\3 Session\C# visual\CalcPretAuto1 - Copie\CalcPretAuto1\bin\Debug\CalcPretAuto1.exe.config
+F:\Rosemont\3 Session\C# visual\CalcPretAuto1 - Copie\CalcPretAuto1\bin\Debug\CalcPretAuto1.exe
+F:\Rosemont\3 Session\C# visual\CalcPretAuto1 - Copie\CalcPretAuto1\bin\Debug\CalcPretAuto1.pdb
+F:\Rosemont\3 Session\C# visual\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\CalcPretAuto1.csprojAssemblyReference.cache
+F:\Rosemont\3 Session\C# visual\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\Choix2.g.cs
+F:\Rosemont\3 Session\C# visual\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\Choix1.g.cs
+F:\Rosemont\3 Session\C# visual\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\MainWindow.g.cs
+F:\Rosemont\3 Session\C# visual\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\App.g.cs
+F:\Rosemont\3 Session\C# visual\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\CalcPretAuto1_MarkupCompile.cache
+F:\Rosemont\3 Session\C# visual\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\CalcPretAuto1_MarkupCompile.lref
+F:\Rosemont\3 Session\C# visual\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\Choix2.baml
+F:\Rosemont\3 Session\C# visual\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\Choix1.baml
+F:\Rosemont\3 Session\C# visual\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\MainWindow.baml
+F:\Rosemont\3 Session\C# visual\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\CalcPretAuto1.g.resources
+F:\Rosemont\3 Session\C# visual\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\CalcPretAuto1.Properties.Resources.resources
+F:\Rosemont\3 Session\C# visual\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\CalcPretAuto1.csproj.GenerateResource.cache
+F:\Rosemont\3 Session\C# visual\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\CalcPretAuto1.csproj.CoreCompileInputs.cache
+F:\Rosemont\3 Session\C# visual\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\CalcPretAuto1.exe
+F:\Rosemont\3 Session\C# visual\CalcPretAuto1 - Copie\CalcPretAuto1\obj\Debug\CalcPretAuto1.pdb
+C:\Users\user\Desktop\CalcPretAutoF\CalcPretAuto1\bin\Debug\CalcPretAuto1.exe.config
+C:\Users\user\Desktop\CalcPretAutoF\CalcPretAuto1\bin\Debug\CalcPretAuto1.exe
+C:\Users\user\Desktop\CalcPretAutoF\CalcPretAuto1\bin\Debug\CalcPretAuto1.pdb
+C:\Users\user\Desktop\CalcPretAutoF\CalcPretAuto1\obj\Debug\CalcPretAuto1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CalcPretAutoF\CalcPretAuto1\obj\Debug\Choix2.g.cs
+C:\Users\user\Desktop\CalcPretAutoF\CalcPretAuto1\obj\Debug\Choix1.g.cs
+C:\Users\user\Desktop\CalcPretAutoF\CalcPretAuto1\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\CalcPretAutoF\CalcPretAuto1\obj\Debug\App.g.cs
+C:\Users\user\Desktop\CalcPretAutoF\CalcPretAuto1\obj\Debug\CalcPretAuto1_MarkupCompile.cache
+C:\Users\user\Desktop\CalcPretAutoF\CalcPretAuto1\obj\Debug\CalcPretAuto1_MarkupCompile.lref
+C:\Users\user\Desktop\CalcPretAutoF\CalcPretAuto1\obj\Debug\Choix2.baml
+C:\Users\user\Desktop\CalcPretAutoF\CalcPretAuto1\obj\Debug\Choix1.baml
+C:\Users\user\Desktop\CalcPretAutoF\CalcPretAuto1\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\CalcPretAutoF\CalcPretAuto1\obj\Debug\CalcPretAuto1.g.resources
+C:\Users\user\Desktop\CalcPretAutoF\CalcPretAuto1\obj\Debug\CalcPretAuto1.Properties.Resources.resources
+C:\Users\user\Desktop\CalcPretAutoF\CalcPretAuto1\obj\Debug\CalcPretAuto1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CalcPretAutoF\CalcPretAuto1\obj\Debug\CalcPretAuto1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CalcPretAutoF\CalcPretAuto1\obj\Debug\CalcPretAuto1.exe
+C:\Users\user\Desktop\CalcPretAutoF\CalcPretAuto1\obj\Debug\CalcPretAuto1.pdb
+F:\aec\sesiunea 3\CalcPretAutoF\CalcPretAuto1\bin\Debug\CalcPretAuto1.exe.config
+F:\aec\sesiunea 3\CalcPretAutoF\CalcPretAuto1\bin\Debug\CalcPretAuto1.exe
+F:\aec\sesiunea 3\CalcPretAutoF\CalcPretAuto1\bin\Debug\CalcPretAuto1.pdb
+F:\aec\sesiunea 3\CalcPretAutoF\CalcPretAuto1\obj\Debug\CalcPretAuto1.csprojAssemblyReference.cache
+F:\aec\sesiunea 3\CalcPretAutoF\CalcPretAuto1\obj\Debug\Choix2.g.cs
+F:\aec\sesiunea 3\CalcPretAutoF\CalcPretAuto1\obj\Debug\Choix1.g.cs
+F:\aec\sesiunea 3\CalcPretAutoF\CalcPretAuto1\obj\Debug\MainWindow.g.cs
+F:\aec\sesiunea 3\CalcPretAutoF\CalcPretAuto1\obj\Debug\App.g.cs
+F:\aec\sesiunea 3\CalcPretAutoF\CalcPretAuto1\obj\Debug\CalcPretAuto1_MarkupCompile.cache
+F:\aec\sesiunea 3\CalcPretAutoF\CalcPretAuto1\obj\Debug\CalcPretAuto1_MarkupCompile.lref
+F:\aec\sesiunea 3\CalcPretAutoF\CalcPretAuto1\obj\Debug\Choix2.baml
+F:\aec\sesiunea 3\CalcPretAutoF\CalcPretAuto1\obj\Debug\Choix1.baml
+F:\aec\sesiunea 3\CalcPretAutoF\CalcPretAuto1\obj\Debug\MainWindow.baml
+F:\aec\sesiunea 3\CalcPretAutoF\CalcPretAuto1\obj\Debug\CalcPretAuto1.g.resources
+F:\aec\sesiunea 3\CalcPretAutoF\CalcPretAuto1\obj\Debug\CalcPretAuto1.Properties.Resources.resources
+F:\aec\sesiunea 3\CalcPretAutoF\CalcPretAuto1\obj\Debug\CalcPretAuto1.csproj.GenerateResource.cache
+F:\aec\sesiunea 3\CalcPretAutoF\CalcPretAuto1\obj\Debug\CalcPretAuto1.csproj.CoreCompileInputs.cache
+F:\aec\sesiunea 3\CalcPretAutoF\CalcPretAuto1\obj\Debug\CalcPretAuto1.exe
+F:\aec\sesiunea 3\CalcPretAutoF\CalcPretAuto1\obj\Debug\CalcPretAuto1.pdb
